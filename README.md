@@ -5,3 +5,6 @@ The paper **"A Phylogenetic and Phenotypic Analysis of Salmonella enterica Serov
 1. JB Mugi
 2. Caroline Kogei
 
+**Consultants**
+1. Pauline Karega
+2. Eric Gathirwa
